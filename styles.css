@@ -1,0 +1,11 @@
+body {
+    background-color: #000;
+    color: white;  
+    text-align: center;
+    list-style-position: inside;
+    font-size: 30px;
+}
+
+p {font-size: 50px;}
+
+h1 {font-size: 80px;}
